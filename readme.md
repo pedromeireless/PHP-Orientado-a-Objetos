@@ -1,4 +1,4 @@
-<h1>PONTAPÉ INICIAL EM PHP</h1>
+<h1 align="center">PONTAPÉ INICIAL EM PHP</h1>
 <p>Meus primeiros códigos em PHP! Se trata de um pequeno sistema de banco, onde temos a seguinte divisão:</p>
 <ul>
     <li>Clientes: são os titulares das contas</li>
